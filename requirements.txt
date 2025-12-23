@@ -7,4 +7,3 @@ accelerate
 matplotlib
 seaborn
 ttkbootstrap
-AutoModelForSequenceClassification
