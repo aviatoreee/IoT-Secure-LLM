@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+scikit-learn
+pandas
+accelerate
+matplotlib
+seaborn
+ttkbootstrap
+AutoModelForSequenceClassification
